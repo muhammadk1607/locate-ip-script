@@ -1,4 +1,4 @@
-# Locale IP Script
+# Locate IP Script
 
 This script is designed to fetch the IP address of a given domain and determine its geographical
 location using the `ipinfo.io` API. It can be useful for various purposes,
